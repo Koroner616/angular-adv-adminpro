@@ -12,10 +12,10 @@ import { HeaderComponent } from './header/header.component';
     SidebarComponent,
     HeaderComponent,
   ],
-  exports:[
-      BreadcrumbsComponent,
-      SidebarComponent,
-      HeaderComponent,
+  exports: [
+    BreadcrumbsComponent,
+    SidebarComponent,
+    HeaderComponent,
   ],
   imports: [
     CommonModule
